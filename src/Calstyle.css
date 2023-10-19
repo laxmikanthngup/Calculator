@@ -1,0 +1,36 @@
+body{background-color: chocolate;}
+.one{background-color: rgb(0, 0, 0);width:300px;height:500px;padding:20px;margin-left:420px;margin-top:50px;border:2px solid rgb(245, 234, 234);border-radius:50px;}
+input{
+       width:200px;height:90px;border:2px solid black;background-color: black;color:white;font-size:30px;margin-top:20px;
+}
+.two{background-color: rgb(0, 0, 0);width:230px;height:300px;
+    border:2px solid black;margin-top:30px;
+    }
+button{width:66px;height:40px;background-color: darkgoldenrod;font-size:10px;color: rgb(0, 0, 0);border-radius:50px;margin:4px;border:2px solid wheat;}
+.AA:hover{background-color: rgb(245, 245, 83);}
+.BB:hover{background-color: rgb(151, 151, 62);}
+.CC:hover{background-color: rgb(141, 140, 205);}
+.DD:hover{background-color: rgb(61, 114, 93);}
+.EE:hover{background-color: rgb(5, 163, 116);}
+.FF:hover{background-color: rgb(17, 117, 129);}
+.GG:hover{background-color: rgb(214, 133, 247);}
+.HH:hover{background-color: rgb(227, 71, 81);}
+.II:hover{background-color: rgb(182, 128, 135);}
+.JJ:hover{background-color: rgb(110, 132, 142);}
+.KK:hover{background-color: rgb(151, 58, 222);}
+.LL:hover{background-color: rgb(232, 232, 118);}
+.MM:hover{background-color: rgb(220, 47, 229);}
+.NN:hover{background-color: rgb(235, 44, 79);}
+.OO:hover{background-color: rgb(235, 44, 79);}
+.PP:hover{background-color: rgb(235, 44, 79);}
+.QQ:hover{background-color: rgb(235, 44, 79);}
+h1{margin-left:420px;margin-top:20px;width:300px;height:50px;padding-left:50px;background-color: azure;animation-name:a;animation-duration:5s;animation-iteration-count: infinite;border-radius:5px;
+}
+@keyframes a{
+    0%{background-color:white;}
+    25%{background-color:rgb(203, 181, 255)}
+    50%{background-color:rgb(145, 169, 165);}
+    75%{background-color: rgb(253, 219, 174);}
+    100%{background-color:rgb(255, 255, 0);}
+    
+}
